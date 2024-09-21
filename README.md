@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NirajMandal01
+- 👋 Hi, I’m Niraj Kumar Mandal
 - Aspiring full stack developer and white hat hacker
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack developer
